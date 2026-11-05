@@ -17,7 +17,7 @@ Construyo modelos estadísticos, predictivos y financieros que pasan del dato en
 | Proyecto | Qué hace | Herramientas |
 |---|---|---|
 | **[Event study: anuncios COVID-19 y la Bolsa Mexicana de Valores](https://github.com/joseahumadacastillo/event-study-covid-bmv)** | Tesis de maestría. Mide el impacto de los anuncios de política durante la pandemia sobre los rendimientos de emisoras de la BMV con ventanas de evento y retornos anormales. | R · econometría · series de tiempo |
-| **[Monitor Legislativo MX](https://github.com/joseahumadacastillo/monitor-legislativo-mx)** | Extrae y clasifica publicaciones oficiales, evalúa su relevancia con un modelo de lenguaje y envía un resumen automático. | Python · LLMs · scraping · GitHub Actions |
+| **Monitor Legislativo MX** *(repositorio privado)* | Extrae y clasifica publicaciones oficiales, evalúa su relevancia con un modelo de lenguaje y envía un resumen automático. | Python · LLMs · scraping · GitHub Actions |
 | **[App de valuación de derivados](https://joseahumada.shinyapps.io/derivados_app/)** | Valuación de opciones con Black-Scholes, árboles binomiales y Monte Carlo; griegas y volatilidad implícita con datos de mercado. | R · Shiny |
 | **[Análisis electoral por distrito](https://github.com/joseahumadacastillo/coalicion_mc_2024)** | Análisis de resultados presidenciales 2018 y de revocación de mandato a nivel distrito federal. | R · datos electorales públicos |
 
