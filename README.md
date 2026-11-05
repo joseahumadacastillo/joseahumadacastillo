@@ -1,7 +1,7 @@
 # José Ahumada Castillo
 
-**Ciencia de datos · Finanzas cuantitativas · Analítica del comportamiento**
-Maestro en Finanzas (ITAM) · Licenciado en Ciencia Política (ITAM) · Candidato a CFA Nivel I
+**Ciencia de datos · Finanzas cuantitativas · Analítica del comportamiento**<br>
+Maestro en Finanzas (ITAM) · Licenciado en Ciencia Política (ITAM) · Candidato a CFA Nivel I<br>
 Ciudad de México · [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-ahumada-castillo-495b7519a/) · jose.ahumadac@gmail.com
 
 Construyo modelos estadísticos, predictivos y financieros que pasan del dato en bruto a decisiones de negocio y de política pública: segmentación y propensión sobre millones de registros, valuación de derivados, análisis de eventos en mercados y automatización con modelos de lenguaje.
