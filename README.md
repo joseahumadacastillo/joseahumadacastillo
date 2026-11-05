@@ -16,6 +16,7 @@ Construyo modelos estadísticos, predictivos y financieros que pasan del dato en
 
 | Proyecto | Qué hace | Herramientas |
 |---|---|---|
+| **[Analítica de comportamiento de usuarios](https://github.com/joseahumadacastillo/ux-analytics)** | Embudo de conversión, conversión por segmento, modelo de probabilidad de compra, segmentación de sesiones y prueba A/B con bootstrap, con datos públicos. Incluye tablero Shiny. | R · regresión logística · k-means · A/B testing · Shiny |
 | **[Event study: anuncios COVID-19 y la Bolsa Mexicana de Valores](https://github.com/joseahumadacastillo/event-study-covid-bmv)** | Tesis de maestría. Mide el impacto de los anuncios de política durante la pandemia sobre los rendimientos de emisoras de la BMV con ventanas de evento y retornos anormales. | R · econometría · series de tiempo |
 | **[Monitor Legislativo MX](https://github.com/joseahumadacastillo/monitor-legislativo)** | Extrae y clasifica publicaciones oficiales, evalúa su relevancia con un modelo de lenguaje y envía un resumen automático. | Python · LLMs · scraping · GitHub Actions |
 | **[App de valuación de derivados](https://github.com/joseahumadacastillo/derivados-app)** · [demo en vivo](https://joseahumada.shinyapps.io/derivados_app/) | Valuación de opciones con Black-Scholes, árboles binomiales y Monte Carlo; griegas y volatilidad implícita con datos de mercado. | R · Shiny |
